@@ -1,4 +1,4 @@
-# Recursos para la materia de Algoritmos y Programación
+# Recursos para la materia de Seguridad en Redes
 
 
 This work is licensed under a
